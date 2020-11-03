@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Dwarves
+title: Loxodon
 parent: Races
-nav_order: 1
+nav_order: 3
 ---
 
-# Dwarves
+# Loxodon

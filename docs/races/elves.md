@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Dwarves
+title: Elves
 parent: Races
-nav_order: 1
+nav_order: 3
 ---
 
-# Dwarves
+# Elves
