@@ -7,6 +7,8 @@ nav_order: 12
 
 # The Siege of Whitemarsh
 
+## 486 IY
+
 After years of speaking out against the grip of the Empire, the dwarven revolutionary Oric is exiled from Hjelmark for his radical ideas.
 
 Gathering support from humans upset with the Empire's rule from across the sea and elves wanting control of their own land back, the local duchies and clans join arms and take Whitemarsh, installing Oric as the Grand Duke.
