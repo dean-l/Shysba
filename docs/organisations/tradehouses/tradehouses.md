@@ -12,6 +12,7 @@ permalink: /docs/organisations/tradehouses
 Established as an independent body overseeing trade and commerce accross the world, the tradehouses are some of the oldest institutions in the land.
 
 | House | Industry | Headquarters |
+|:-|:-|:-|
 | Hetron's Best | General Goods | Capital |
 | The College of Masons | Construction | Upper Canal |
 | Breventon | Security | Capital |
