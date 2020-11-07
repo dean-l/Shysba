@@ -14,11 +14,11 @@ Established as an independent body overseeing trade and commerce accross the wor
 | House | Industry | Headquarters |
 |:-|:-|:-|
 | Hetron's Best | General Goods | Capital |
-| The College of Masons | Construction | Upper Canal |
+| The College of Masons | Engineering | Upper Canal |
 | Breventon | Security | Capital |
 | The Wide Sea Assoc. | Shipping | Hjelmark |
 | The Boswick Players | Entertainment | N/A |
-| Desiria | Comfort | Whitemarsh |
+| Desiria | Hospitality | Whitemarsh |
 | Naiju-Alstott | Transport | Whitemarsh |
 | Udi Bayarma | Fineries | Khuuprasan
 | The Breakers | Husbandry | Gavond |
