@@ -16,3 +16,12 @@ permalink: /docs/magic
 | Illusion |
 | Necromancy |
 | Transmutation |
+
+# The Disciplines of Magic
+
+* Wizardry - Studied Magic
+* Sorcery - Inherent Magic
+* Alchemy - Liquid Magic
+* Artifice - Crafted Magic
+* Way of Shysba - Natural Magic
+* Sonderism - Merged Magic
