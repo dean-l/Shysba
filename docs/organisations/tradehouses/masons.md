@@ -7,7 +7,7 @@ grand_parent: Organisations
 ---
 <img src="/shysba/img/masons.png"
      alt="The College of Masons"
-     style="float: right; margin-right: 10px; width: 100px;" />
+     style="float: right; margin-left: 10px; width: 100px;" />
 
 # The College of Masons
 
