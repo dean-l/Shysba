@@ -7,6 +7,6 @@ grand_parent: Organisations
 ---
 <img src="/shysba/img/ub.png"
      alt="Udi Bayarma"
-     style="float: right; margin-right: 10px; width: 100px;" />
+     style="float: right; margin: 30px; width: 100px;" />
 
 # Udi Bayarma

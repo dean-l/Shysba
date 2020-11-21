@@ -7,6 +7,6 @@ grand_parent: Organisations
 ---
 <img src="/shysba/img/breakers.png"
      alt="The Breakers"
-     style="float: right; margin-right: 10px; width: 100px;" />
+     style="float: right; margin: 30px; width: 100px;" />
 
 # The Breakers

@@ -7,7 +7,7 @@ grand_parent: Organisations
 ---
 <img src="/shysba/img/breventon.png"
      alt="Breventon"
-     style="float: right; margin-right: 10px; width: 100px;" />
+     style="float: right; margin: 30px; width: 100px;" />
 
 # Breventon
 
