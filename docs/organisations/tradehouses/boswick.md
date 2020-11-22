@@ -5,7 +5,7 @@ nav_order: 5
 parent: Tradehouses
 grand_parent: Organisations
 ---
-<img src="/shysba/img/boswick.png"
+<img src="/the-wide-sea/img/boswick.png"
      alt="The Boswick Players"
      style="float: right; margin: 30px; width: 100px;" />
 

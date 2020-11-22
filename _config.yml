@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shysba Wiki
+title: Wide Sea Wiki
 description: A Jekyll theme for documentation
-baseurl: "/shysba/" # the subpath of your site, e.g. /blog
+baseurl: "/the-wide-sea/" # the subpath of your site, e.g. /blog
 url: "https://dean-l.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -27,7 +27,7 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
   "Dean L":
-    - "//github.com/dean-l/shysba"
+    - "//github.com/dean-l/the-wide-sea"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: dark

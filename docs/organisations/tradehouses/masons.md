@@ -5,7 +5,7 @@ nav_order: 2
 parent: Tradehouses
 grand_parent: Organisations
 ---
-<img src="/shysba/img/masons.png"
+<img src="/the-wide-sea/img/masons.png"
      alt="The College of Masons"
      style="float: right; margin: 30px; width: 100px;" />
 

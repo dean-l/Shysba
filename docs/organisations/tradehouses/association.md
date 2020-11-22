@@ -5,7 +5,7 @@ nav_order: 4
 parent: Tradehouses
 grand_parent: Organisations
 ---
-<img src="/shysba/img/wsa.png"
+<img src="/the-wide-sea/img/wsa.png"
      alt="The Wide Sea Association"
      style="float: right; margin: 30px; width: 100px;" />
 

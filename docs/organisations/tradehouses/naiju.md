@@ -5,7 +5,7 @@ nav_order: 7
 parent: Tradehouses
 grand_parent: Organisations
 ---
-<img src="/shysba/img/na.png"
+<img src="/the-wide-sea/img/na.png"
      alt="Naiju-Alstott"
      style="float: right; margin: 30px; width: 100px;" />
 
