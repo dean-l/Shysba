@@ -13,9 +13,9 @@ Established as an independent body overseeing trade and commerce accross the wor
 
 | House | Industry | Headquarters |
 |:-|:-|:-|
-| Hetron's Best | General Goods | Capital |
+| Hetron's Best | General Goods | Eldemere |
 | The College of Masons | Engineering | Upper Canal |
-| Breventon | Security | Capital |
+| Breventon | Security | Eldemere |
 | The Wide Sea Assoc. | Shipping | Hjelmark |
 | The Boswick Players | Entertainment | N/A |
 | Desiria | Hospitality | Whitemarsh |
