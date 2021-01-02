@@ -18,14 +18,21 @@ Established as a small fishing village and rebuilt as a duchy capital after the 
 
 * Reid Ganbataar - Male Elven Trademaster - Naiju-Alstott
 * Satie Greenspring - Female Halfling Entertainer - Boswick Players
-* Box - Male Dwarven Blacksmith
+* Yoden 'Box' Kubocks - Male Dwarven Blacksmith
+* Hospin Featherling - Male Loxodon Mason Draughtsman
+* Oledift Sweet - Male Magician - Shidet Magi
 
 ## Taverns and Entertainment
 
-* The Leeward Side - Old Whitemarsh - Checker - Male Human
+* The Leeward Side - Dovian Way - Checker - Male Human
+* Hackett Game Hall - Gambling House
 * Womak's Rest - The Trade End - Female Elf
 * The Haddock Inn - The Flats
 
 ## Shops and Stores
 
 * Naiju-Alstott Consignment Office - Old Whitemarsh
+* Shidet Magi - Magic Shop - Dovian Way
+* Hetron's Best - General Store
+
+![Dovian Way](/the-wide-sea/img/dovian_way.png)
