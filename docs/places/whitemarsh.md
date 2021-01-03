@@ -20,12 +20,11 @@ Established as a small fishing village and rebuilt as a duchy capital after the 
 * Satie Greenspring - Female Halfling Entertainer - Boswick Players
 * Yoden 'Box' Kubocks - Male Dwarven Blacksmith
 * Hospin Featherling - Male Loxodon Mason Draughtsman
-* Oledift Sweet - Male Magician - Shidet Magi
 
 ## Taverns and Entertainment
 
 * The Leeward Side - Dovian Way - Checker - Male Human
-* Hackett Game Hall - Gambling House
+* Dovian Game Hall - Gambling House
 * Womak's Rest - The Trade End - Female Elf
 * The Haddock Inn - The Flats
 

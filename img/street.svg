@@ -17,7 +17,10 @@
    version="1.1"
    id="svg13573"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="street.svg">
+   sodipodi:docname="street.svg"
+   inkscape:export-filename="F:\the-wide-sea\img\dovian_way.png"
+   inkscape:export-xdpi="100.11"
+   inkscape:export-ydpi="100.11">
   <defs
      id="defs13567">
     <linearGradient
@@ -301,6 +304,26 @@
        y1="234.35765"
        x2="140.42282"
        y2="234.35765" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18613"
+       id="linearGradient18615-5"
+       x1="55.950291"
+       y1="172.98148"
+       x2="170.20522"
+       y2="172.98148"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(129.29405,-217.83609)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18613"
+       id="linearGradient18615-5-1"
+       x1="55.950291"
+       y1="172.98148"
+       x2="170.20522"
+       y2="172.98148"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-54.174438,-361.91946)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -309,16 +332,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.93447897"
-     inkscape:cx="486.83519"
-     inkscape:cy="321.58264"
+     inkscape:zoom="1.2195971"
+     inkscape:cx="332.09703"
+     inkscape:cy="458.19628"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="487"
+     inkscape:window-width="1080"
+     inkscape:window-height="1857"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata13570">
@@ -348,147 +371,147 @@
        inkscape:export-ydpi="100.11" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-45.537,47.326 -40.523,51.977 -42.267,53.51 -48.46,52.194 "
+       points="-48.46,52.194 -45.537,47.326 -40.523,51.977 -42.267,53.51 "
        id="polygon740"
        transform="matrix(2.3358914,0,0,2.3358914,183.94403,45.726031)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-13.646,47.6 -15.198,51.106 -24.036,47.194 -22.484,43.688 "
+       points="-22.484,43.688 -13.646,47.6 -15.198,51.106 -24.036,47.194 "
        id="polygon792"
        transform="matrix(2.3358914,0,0,2.3358914,200.5173,44.527885)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-18.497,58.558 -21.095,58.006 -19.871,52.244 -16.06,53.054 "
+       points="-16.06,53.054 -18.497,58.558 -21.095,58.006 -19.871,52.244 "
        id="polygon794"
        transform="matrix(2.3358914,0,0,2.3358914,199.10082,48.669872)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-20.379,54.633 -21.095,58.006 -26.106,56.942 -25.39,53.568 "
+       points="-25.39,53.568 -20.379,54.633 -21.095,58.006 -26.106,56.942 "
        id="polygon796"
        transform="matrix(2.3358914,0,0,2.3358914,196.35943,48.898235)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-16.06,53.054 -19.125,52.403 -18.002,49.865 -15.198,51.106 "
+       points="-15.198,51.106 -16.06,53.054 -19.125,52.403 -18.002,49.865 "
        id="polygon798"
        transform="matrix(2.3358914,0,0,2.3358914,199.90348,46.358094)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-27.698,51.13 -24.994,51.705 -26.106,56.942 -28.81,56.368 "
+       points="-28.81,56.368 -27.698,51.13 -24.994,51.705 -26.106,56.942 "
        id="polygon800"
        transform="matrix(2.3358914,0,0,2.3358914,194.22238,47.875687)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-31.793,55.734 -31.09,53.456 -28.317,54.045 -28.81,56.368 "
+       points="-28.81,56.368 -31.793,55.734 -31.09,53.456 -28.317,54.045 "
        id="polygon802"
        transform="matrix(2.3358914,0,0,2.3358914,191.84497,47.859471)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-33.397,53.89 -36.901,49.859 -33.796,47.13 -30.348,51.053 "
+       points="-30.348,51.053 -33.397,53.89 -36.901,49.859 -33.796,47.13 "
        id="polygon804"
        transform="matrix(2.3358914,0,0,2.3358914,190.29554,45.818547)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-32.877,54.488 -33.083,55.46 -34.373,55.186 -34.167,54.214 "
+       points="-34.167,54.214 -32.877,54.488 -33.083,55.46 -34.373,55.186 "
        id="polygon806"
        transform="matrix(2.3358914,0,0,2.3358914,191.35467,47.814309)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-34.373,55.186 -41.291,53.717 -36.901,49.859 -33.96,53.242 "
+       points="-33.96,53.242 -34.373,55.186 -41.291,53.717 -36.901,49.859 "
        id="polygon808"
        transform="matrix(2.3358914,0,0,2.3358914,187.879,46.97459)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-28.876,46.282 -32.072,49.092 -33.796,47.13 -30.599,44.321 "
+       points="-30.599,44.321 -28.876,46.282 -32.072,49.092 -33.796,47.13 "
        id="polygon810"
        transform="matrix(2.3358914,0,0,2.3358914,191.63303,43.595501)" />
     <polygon
        style="fill:url(#linearGradient18447);fill-opacity:1;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-0.142,48.992 -2.597,51.269 -5.334,48.318 -2.88,46.041 "
+       points="-2.88,46.041 -0.142,48.992 -2.597,51.269 -5.334,48.318 "
        id="polygon830"
        transform="matrix(2.185679,-0.82413361,-0.82413361,-2.185679,227.20621,272.45928)" />
     <polygon
        style="fill:url(#linearGradient18451);fill-opacity:1;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-5.617,43.133 -0.748,44.063 -5.334,48.318 -8.05,45.391 "
+       points="-8.05,45.391 -5.617,43.133 -0.748,44.063 -5.334,48.318 "
        id="polygon834"
        transform="matrix(2.185679,-0.82413361,-0.82413361,-2.185679,226.9438,274.35944)" />
     <polygon
        style="fill:url(#linearGradient18453);fill-opacity:1;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-10.391,42.222 -5.617,43.133 -8.05,45.391 -10.584,42.659 "
+       points="-10.584,42.659 -10.391,42.222 -5.617,43.133 -8.05,45.391 "
        id="polygon836"
        transform="matrix(2.185679,-0.82413361,-0.82413361,-2.185679,225.33445,276.16826)" />
     <polygon
        style="fill:url(#linearGradient18479);fill-opacity:1;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-11.667,63.776 -12.45,61.835 -7.673,59.908 -6.89,61.85 "
+       points="-6.89,61.85 -11.667,63.776 -12.45,61.835 -7.673,59.908 "
        id="polygon862"
        transform="matrix(2.3358914,0,0,2.3358914,210.65597,58.112311)" />
     <polygon
        style="fill:url(#linearGradient18481);fill-opacity:1;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-11.667,63.776 -15.734,65.416 -17.834,59.038 -14.233,57.412 "
+       points="-14.233,57.412 -11.667,63.776 -15.734,65.416 -17.834,59.038 "
        id="polygon864"
        transform="matrix(2.3358914,0,0,2.3358914,207.69441,57.861373)" />
     <polygon
        style="fill:url(#linearGradient18493);fill-opacity:1;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-14.637,68.746 -15.483,66.178 -9.728,63.857 -8.781,66.959 "
+       points="-8.781,66.959 -14.637,68.746 -15.483,66.178 -9.728,63.857 "
        id="polygon876"
        transform="matrix(2.3358914,0,0,2.3358914,209.21865,60.709495)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
        points="-40.773,59.061 -49.779,61.888 -48.864,57.349 "
        id="polygon1690"
-       transform="matrix(2.3358914,0,0,2.3358914,182.44418,58.080919)" />
+       transform="matrix(2.3358914,0,0,2.3358914,181.38584,57.551752)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-41.811,54.424 -40.773,59.061 -44.631,58.245 -43.736,54.015 "
+       points="-44.631,58.245 -43.736,54.015 -41.811,54.424 -40.773,59.061 "
        id="polygon1692"
-       transform="matrix(2.3358914,0,0,2.3358914,183.75904,56.269978)" />
+       transform="matrix(2.3358914,0,0,2.3358914,182.7007,55.740811)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-43.736,54.015 -44.631,58.245 -48.864,57.349 -48.009,53.108 "
+       points="-48.864,57.349 -48.009,53.108 -43.736,54.015 -44.631,58.245 "
        id="polygon1694"
-       transform="matrix(2.3358914,0,0,2.3358914,181.64875,55.758068)" />
+       transform="matrix(2.3358914,0,0,2.3358914,180.59041,55.228901)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
        points="-42.311,60.382 -40.598,59.845 -39.085,66.604 "
        id="polygon1702"
-       transform="matrix(2.3358914,0,0,2.3358914,184.88472,60.10426)" />
+       transform="matrix(2.3358914,0,0,2.3358914,183.82638,59.575093)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-16.977,64.2 -21.21,66.188 -22.624,63.177 -18.025,61.018 "
+       points="-18.025,61.018 -16.977,64.2 -21.21,66.188 -22.624,63.177 "
        id="polygon1786"
        transform="matrix(2.3358914,0,0,2.3358914,197.11524,60.383001)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-16.081,66.919 -19.885,69.009 -21.21,66.188 -16.977,64.2 "
+       points="-16.977,64.2 -16.081,66.919 -19.885,69.009 -21.21,66.188 "
        id="polygon1788"
        transform="matrix(2.3358914,0,0,2.3358914,197.78844,62.140256)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-30.243,60.015 -29.607,57.016 -25.64,57.859 -26.276,60.857 "
+       points="-26.276,60.857 -30.243,60.015 -29.607,57.016 -25.64,57.859 "
        id="polygon1790"
        transform="matrix(2.3358914,0,0,2.3358914,192.36892,57.661994)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-30.725,56.779 -31.225,59.134 -34.696,58.397 -34.196,56.042 "
+       points="-34.196,56.042 -30.725,56.779 -31.225,59.134 -34.696,58.397 "
        id="polygon1792"
        transform="matrix(2.3358914,0,0,2.3358914,189.58396,56.874525)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-35.074,55.855 -34.513,59.623 -39.657,60.388 -40.951,54.607 "
+       points="-40.951,54.607 -35.074,55.855 -34.513,59.623 -39.657,60.388 "
        id="polygon1794"
        transform="matrix(2.3358914,0,0,2.3358914,186.63797,56.808401)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-38.568,65.252 -39.657,60.388 -34.039,59.552 -33.307,64.47 "
+       points="-33.307,64.47 -38.568,65.252 -39.657,60.388 -34.039,59.552 "
        id="polygon1796"
        transform="matrix(2.3358914,0,0,2.3358914,187.37588,59.684982)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-24.454,63.153 -25.64,57.859 -22.459,58.534 -21.714,61.866 "
+       points="-21.714,61.866 -24.454,63.153 -25.64,57.859 -22.459,58.534 "
        id="polygon1800"
        transform="matrix(2.3358914,0,0,2.3358914,194.84678,58.588638)" />
     <polygon
        style="fill:#d6a36e;stroke:#d6a36e;stroke-width:0.51700002"
-       points="-18.277,60.252 -21.714,61.866 -22.459,58.534 -18.57,59.36 "
+       points="-18.57,59.36 -18.277,60.252 -21.714,61.866 -22.459,58.534 "
        id="polygon1802"
        transform="matrix(2.3358914,0,0,2.3358914,196.78489,58.409938)" />
     <rect
@@ -534,35 +557,27 @@
        y="231.02914"
        id="text18813"><tspan
          sodipodi:role="line"
-         id="tspan19067"
+         id="tspan4888"
          x="29.032909"
-         y="231.02914"
-         style="fill:url(#linearGradient4870)">1.   Nauji-Alstott Consignment Office</tspan><tspan
+         y="231.02914">1.   Nauji-Alstott Consignment Office</tspan><tspan
          sodipodi:role="line"
-         id="tspan19069"
+         id="tspan4890"
          x="29.032909"
-         y="240.73053"
-         style="fill:url(#linearGradient4870)">2.   The Leeward Side - Tavern</tspan><tspan
+         y="240.73053">2.   The Leeward Side - Tavern</tspan><tspan
          sodipodi:role="line"
-         id="tspan19071"
+         id="tspan4892"
          x="29.032909"
-         y="250.43192"
-         style="fill:url(#linearGradient4870)">3.   Box's - Blacksmith Shop</tspan><tspan
+         y="250.43192">3.   Box's - Blacksmith Shop</tspan><tspan
          sodipodi:role="line"
-         id="tspan19073"
-         style="fill:url(#linearGradient4870)"
+         id="tspan4894"
          x="29.032909"
          y="260.1333">4.   Shidet Magi - Magic Shop</tspan><tspan
          sodipodi:role="line"
-         style="fill:url(#linearGradient4870)"
+         id="tspan4896"
          x="29.032909"
-         y="269.83469"
-         id="tspan4830">5.   Bockett Game Hall - Services</tspan><tspan
+         y="269.83469">5.   Dovian Game Hall - Services</tspan><tspan
          sodipodi:role="line"
-         style="fill:url(#linearGradient4870)"
-         x="29.032909"
-         y="279.5361"
-         id="tspan4832">6.   Hetron's Best - General Store</tspan></text>
+         id="tspan4898">6.   Hetron's Best - General Store</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:1.25;font-family:'Celestia Antiqua Std';-inkscape-font-specification:'Celestia Antiqua Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient18877);fill-opacity:1;stroke:none;stroke-width:1.5937351"
@@ -635,7 +650,7 @@
            x="113.4322"
            y="94.915665"
            style="fill:#010101;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4840"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4840" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4842"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Celestia Antiqua Std';-inkscape-font-specification:'Celestia Antiqua Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4866);fill-opacity:1;stroke:none"
@@ -649,5 +664,23 @@
            y="88.494972"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Celestia Antiqua Std';-inkscape-font-specification:'Celestia Antiqua Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4860);fill-opacity:1" /></flowRegion><flowPara
          id="flowPara4852"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Celestia Antiqua Std';-inkscape-font-specification:'Celestia Antiqua Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4864);fill-opacity:1">Dovian Way</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Celestia Antiqua Std';-inkscape-font-specification:'Celestia Antiqua Std, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4864);fill-opacity:1">Dovian Way</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:url(#linearGradient18615-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect18603-4"
+       width="37.244194"
+       height="2.6333933"
+       x="195.30315"
+       y="-46.371494"
+       transform="rotate(77.18576)"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient18615-5-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect18603-4-9"
+       width="38.65144"
+       height="2.0762882"
+       x="12.137223"
+       y="-188.63261"
+       transform="rotate(139.35099)"
+       ry="0" />
+  </g>
 </svg>
