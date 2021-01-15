@@ -20,6 +20,7 @@ Established as a small fishing village and rebuilt as a duchy capital after the 
 * Satie Greenspring - Female Halfling Entertainer - Boswick Players
 * Yoden 'Box' Kubocks - Male Dwarven Blacksmith
 * Hospin Featherling - Male Loxodon Mason Draughtsman
+* Bilmin Ibirani - Male Gnome Wizard - Magi Shidet
 
 ## Taverns and Entertainment
 
@@ -31,7 +32,7 @@ Established as a small fishing village and rebuilt as a duchy capital after the 
 ## Shops and Stores
 
 * Naiju-Alstott Consignment Office - Old Whitemarsh
-* Shidet Magi - Magic Shop - Dovian Way
+* Magi Shidet - Magic Shop - Dovian Way
 * Hetron's Best - General Store
 
 ![Dovian Way](/the-wide-sea/img/dovian_way.png)
