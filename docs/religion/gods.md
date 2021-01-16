@@ -8,7 +8,7 @@ parent: Religion
 # The Gods
 
 | Deity | Domain | Alignment | Symbol |
-| Lumria, Light of the World (F) | Light and Life | LG | Rising sun |
+| Lumiria, Light of the World (F) | Light and Life | LG | Rising sun |
 | Hetron, the Everharvest (M) | Nature and Harvest | NG | Bundled sheath of wheat |
 | Mollick, the Grand Jester (M) | Revelry and Joy | CG | Jewelled goblet |
 | Darobine, Judge of the Planes (F) | Justice and Balance | LN | Iron hammer |
