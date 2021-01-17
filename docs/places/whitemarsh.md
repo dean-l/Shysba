@@ -19,20 +19,20 @@ Established as a small fishing village and rebuilt as a duchy capital after the 
 * Reid Ganbataar - Male Elven Trademaster - Naiju-Alstott
 * Satie Greenspring - Female Halfling Entertainer - Boswick Players
 * Yoden 'Box' Kubocks - Male Dwarven Blacksmith
-* Hospin Featherling - Male Loxodon Mason Draughtsman
-* Bilmin Ibirani - Male Gnome Wizard - Magi Shidet
+* Hospon Featherling - Male Loxodon Mason Draughtsman
 
 ## Taverns and Entertainment
 
-* The Leeward Side - Dovian Way - Checker - Male Human
-* Dovian Game Hall - Gambling House
-* Womak's Rest - The Trade End - Female Elf
-* The Haddock Inn - The Flats
+* The Leeward Side, Tavern - Dovian Way - Checker: Male Human
+* Dovian Game Hall, Gambling House - Dovian Way - Ruvinda: Female Half-orc
+* Womak's Rest, Tavern - The Trade End - Miria Womak: Female Elf
+* The Haddock Inn, Tavern - The Flats - Buster: Male Human
 
 ## Shops and Stores
 
-* Naiju-Alstott Consignment Office - Old Whitemarsh
-* Magi Shidet - Magic Shop - Dovian Way
-* Hetron's Best - General Store
+* Naiju-Alstott Consignment Office
+* Box's Blacksmith Shop
+* Magi Shidet, Magic Shop - Bilmin Ibirani: Male Gnome Wizard
+* Hetron's Best, General Store - Thelma Kenley: Female Human
 
 ![Dovian Way](/the-wide-sea/img/dovian_way.png)
