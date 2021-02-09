@@ -24,7 +24,7 @@ Established as a small fishing village and rebuilt as a duchy capital after the 
 ## Taverns and Entertainment
 
 * The Leeward Side, Tavern - Dovian Way - Checker: Male Human
-* Dovian Game Hall, Gambling House - Dovian Way - Ruvinda: Female Half-orc
+* Dovian Parlour Club, Gambling House - Dovian Way - Ruvinda: Female Half-orc
 * Womak's Rest, Tavern - The Trade End - Miria Womak: Female Elf
 * The Haddock Inn, Tavern - The Flats - Buster: Male Human
 
