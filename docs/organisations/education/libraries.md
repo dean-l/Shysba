@@ -20,15 +20,19 @@ Built on the islands to the south away from inteference from opportunistic natio
 ## The Hall of Truth
 
 The Hall of Truth has a record of every piece of legislation, law and edict and handles trial and prosecution of the most notorious criminals. The Hall is run by the Overseers, who enforce as many laws as they keep.
+* Overseer Koronden
 
 ## Manai Nomuud
 
 All the worlds events and tales have been passed down through the centuries by the Elders at Manai Nomuud, and recorded into their archives. While respected and immensibly knowedgable, their stories are complex and often contradictory.
+* Elder Gostri Thod
 
 ## Brovind's Collection
 
 The guilded rooms of Brovind's Collection house some of the finest treasures, artworks and artifacts in the world. The Curators maintain a watchful eye over the collection and are very secretive about new acquisitions and changes.
+* Curator Indid R. Jopenerick
 
 ## The Magilex
 
-With some of the greatest wizards in it's employ, the Magilex is on the cutting edge of magical research. Constant experimentation and a lack of respect for procedure constantly put the Mages at odds with the other libraries.
+With some of the greatest wizards in it's employ, the Magilex is on the cutting edge of magical research. Constant experimentation and a lack of respect for procedure constantly put the Magii at odds with the other libraries.
+* Magus Ki Jun
