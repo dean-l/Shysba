@@ -9,5 +9,9 @@ nav_order: 6
 
 ![](/the-wide-sea/img/eldemere.jpg)
 
+# Eldemere
 
-Eldemere stands as the shining capital of Thaland and the seat of the great Empire. With an ideal climate and plentiful goods, Eldemere is the perfect city, as long as you follow their laws without question.
+Eldemere stands as the shining capital of Thaland and the seat of the great Empire. With an warm, tropical climate and plentiful goods, Eldemere is the perfect destination city, as long as you follow their laws without question.
+
+## The Grand Empire Contest
+
