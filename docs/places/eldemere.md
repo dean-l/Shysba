@@ -17,7 +17,7 @@ Eldemere stands as the shining capital of Thaland and the seat of the great Empi
 ## The Grand Empire Contest
 
 Occuring once every two years, The Grand Empire Contest brings the greatest of the Wide Sea to compete against each other in an array of games and challenges. With grand prizes and accolades to be won, the city comes alive with spectators and competitors for the one month long event.
-|| Contest || Discipline || Current Champion || Prize ||
+| Contest | Discipline ||Current Champion | Prize |
 | Open Fencing Championship | Swordsmanship | Admiral Sal Lenore and Imperial Navy Team | 5000GP |
 | Arcanis Pentathlon | Magecraft | Cozern Vik | Krolosian Tower Invitation |
 | Imperial Championship | Gladiatorial | Doll "Fury" Rothmar | Longship |
