@@ -11,11 +11,11 @@ Religion is an important part of life in the world, and most people worship a go
 
 | Deity | Domain | Alignment | Symbol |
 | Lumiria, Light of the World | Light and Life | LG | Rising sun |
-| Hetron, the Everharvest | Nature and Harvest | NG | Bundled sheath of wheat |
-| Mollick, the Grand Jester | Revelry and Joy | CG | Jewelled goblet |
+| Hetron, The Everharvest | Nature and Harvest | NG | Bundled sheath of wheat |
+| Mollick, The Grand Jester | Revelry and Joy | CG | Jewelled goblet |
 | Darobine, Judge of the Planes | Justice and Balance | LN | Iron hammer |
-| Perionis, the Weaver | Knowledge and Magic | N | Pentagram within a circle |
-| Vollghrad, the Stormfather | Strength and Storms | CN | Sword with a lightning bolt cross guard |
+| Perionis, The Weaver | Knowledge and Magic | N | Pentagram within a circle |
+| Vollghrad, The Stormfather | Strength and Storms | CN | Sword with a lightning bolt cross guard |
 | Asmodeus, Lord of the Nine Hells | Tyranny and Domination | LE | Three triangles in tight formation |
 | Lolth, Queen of Spiders | Trickery and Deception | NE | Eight-pointed web motif |
-| Gir'Hanjar, the Serpent King | Death and Darkness | CE | Snake wrapping a skull |
+| Gir'Hanjar, The Serpent King | Death and Darkness | CE | Snake wrapping a skull |
