@@ -16,7 +16,7 @@ As the largest city on Yun Gost, Gavond is a trade port and farming community fo
 
 ## Taverns and Entertainment
 
-* The Tzykanisterion, Arena - Timber Ward
+* The Tzykanerion, Arena - Timber Ward
 * The White Heart, Tavern - Aftdocks
 * The Foreside Inn, Tavern - Foredocks
 * Balefrost Point, Plaza - Easthill

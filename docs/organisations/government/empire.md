@@ -20,7 +20,7 @@ As the Empire grew and generations between humans and elves began to mismatch wi
 ## Emperor of the East, Lord of Humanity
 
 - Pronitha Averamere II
-- Male Human, Mid 50's, Known to frequent gambling halls with an above average skill at them.
+- Male Human, Mid 40's, Known to frequent gambling halls with an above average skill at them.
 - Son of the Great Emperor Pronitha "The Hand" Averamere. His moniker is derived from his devout conviction to the goddess Darobine and the ruthless execution to the oath he swore to.
 
 ## Emperor of the West, Archon of Shysba
