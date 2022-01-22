@@ -41,9 +41,8 @@ Occuring once every two years, The Grand Empire Contest brings the greatest of t
 * The Green Gorgon, Tavern - Kankunarn'el
 * East Eldemere Alehall, Tavern - Hope's Landing
 * Bostwick's Royal Theatre, Theatre - Kankunarn'el
-* The Landing Market, Produce Market - Hope's Landing
 
 ## Shops and Stores
 
 * Empire Enchantment, Magic Shop - Imperial Quarter
-* 
+* The Landing Market, Produce Market - Hope's Landing
