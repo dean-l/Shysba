@@ -29,4 +29,5 @@ Hjelmark is the largest city in the [islands] and the cultural and historical ho
 
 ## Shops and Stores
 
-* The Mithril Mantle, Magic Shop - Willowrush: Female Gnome
+* The Mithril Mantle, Magic Garment Shop - Willowrush: Female Gnome
+* Hjelmark Treasures and Arcane, Magic Shop - Daerth Rondor: Female Dwarf
